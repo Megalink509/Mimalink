@@ -1,0 +1,19 @@
+{
+  "lurker_chase_music": false,
+  "lurker_spawn_rate": 3,
+  "the spawn rate can range from 1 to 5, with 1 being the lowest and 5 being the highest.": 0,
+  "pop_up_jumpscare": true,
+  "jumpscare_sound": true,
+  "longer_lurker_chase": false,
+  "spooky_ambience": true,
+  "multi_spawning": false,
+  "insanity_progress_effect": true,
+  "insanity_countdown_time": 3,
+  "the insanity countdown time determines how long the timer is for insanity. 1 is 5mins, 2 is 10mins, 3 is 20mins, and 4 is 30mins.": 0,
+  "lurker_invulnerable": false,
+  "nether_lurker_spawn_rate": 4,
+  "the nether spawn rate can range from 1 to 5, with 1 being the lowest and 5 being the highest.": 0,
+  "amnesia": true,
+  "invisible_entities_spawning": true,
+  "encounters_progress_stages": true
+}
